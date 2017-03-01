@@ -19,6 +19,7 @@ namespace thomas
         public int pos = -1;
         public int i = 0;
         public int temp;
+        public int x;
         public Form1()
         {
             InitializeComponent();
